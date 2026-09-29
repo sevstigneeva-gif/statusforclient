@@ -1,4 +1,0 @@
-interface:
-  display_name: "Jira Status Report"
-  short_description: "Клиентский статус-отчет по проекту(ам) Jira за период"
-  default_prompt: "Подготовь клиентский статус-отчет по проекту <КЛЮЧ ПРОЕКТА> в Jira за <период>"
